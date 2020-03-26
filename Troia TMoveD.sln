@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Troia TMoveD", "Troia TMoveD\Troia TMoveD.csproj", "{A25CF40F-BAB7-403E-92FE-FB90A38093BD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IA Troia Collaber 17", "IA Troia Collaber 17\IA Troia Collaber 17.vdproj", "{9BF05DAD-3D50-42CD-B79E-84158169EBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25CF40F-BAB7-403E-92FE-FB90A38093BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25CF40F-BAB7-403E-92FE-FB90A38093BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25CF40F-BAB7-403E-92FE-FB90A38093BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25CF40F-BAB7-403E-92FE-FB90A38093BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF05DAD-3D50-42CD-B79E-84158169EBFC}.Debug|Any CPU.ActiveCfg = Debug
+		{9BF05DAD-3D50-42CD-B79E-84158169EBFC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

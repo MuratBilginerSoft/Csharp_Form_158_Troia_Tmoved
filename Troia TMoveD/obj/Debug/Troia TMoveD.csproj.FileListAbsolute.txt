@@ -1,0 +1,67 @@
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\bin\Debug\Troia TMoveD.exe.config
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\bin\Debug\Troia TMoveD.exe
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\bin\Debug\Troia TMoveD.pdb
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\obj\Debug\Troia TMoveD.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\obj\Debug\Troia_TMoveD.Properties.Resources.resources
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\obj\Debug\Troia TMoveD.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\obj\Debug\Troia TMoveD.exe
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\obj\Debug\Troia TMoveD.pdb
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\obj\Debug\Troia_TMoveD.AdminPanel.resources
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\obj\Debug\Troia_TMoveD.StartForm.resources
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\obj\Debug\Troia_TMoveD.BusinessForm.resources
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\user\Desktop\Proje\Troia TMoveD\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\bin\Debug\Troia TMoveD.exe.config
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\bin\Debug\Troia TMoveD.exe
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\bin\Debug\Troia TMoveD.pdb
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\obj\Debug\Troia TMoveD.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\obj\Debug\Troia_TMoveD.AdminPanel.resources
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\obj\Debug\Troia_TMoveD.BusinessForm.resources
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\obj\Debug\Troia_TMoveD.StartForm.resources
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\obj\Debug\Troia_TMoveD.Properties.Resources.resources
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\obj\Debug\Troia TMoveD.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\obj\Debug\Troia TMoveD.exe
+C:\Users\user\Desktop\Troia TMoveD\Troia TMoveD\obj\Debug\Troia TMoveD.pdb
+E:\Troia TMoveD 3\Troia TMoveD\bin\Debug\Troia TMoveD.exe.config
+E:\Troia TMoveD 3\Troia TMoveD\bin\Debug\Troia TMoveD.exe
+E:\Troia TMoveD 3\Troia TMoveD\bin\Debug\Troia TMoveD.pdb
+E:\Troia TMoveD 3\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Troia TMoveD 3\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Troia TMoveD 3\Troia TMoveD\obj\Debug\Troia TMoveD.csprojResolveAssemblyReference.cache
+E:\Troia TMoveD 3\Troia TMoveD\obj\Debug\Troia_TMoveD.AdminPanel.resources
+E:\Troia TMoveD 3\Troia TMoveD\obj\Debug\Troia_TMoveD.BusinessForm.resources
+E:\Troia TMoveD 3\Troia TMoveD\obj\Debug\Troia_TMoveD.StartForm.resources
+E:\Troia TMoveD 3\Troia TMoveD\obj\Debug\Troia_TMoveD.Properties.Resources.resources
+E:\Troia TMoveD 3\Troia TMoveD\obj\Debug\Troia TMoveD.csproj.GenerateResource.Cache
+E:\Troia TMoveD 3\Troia TMoveD\obj\Debug\Troia TMoveD.exe
+E:\Troia TMoveD 3\Troia TMoveD\obj\Debug\Troia TMoveD.pdb
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\bin\Debug\Troia TMoveD.exe.config
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.exe
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.pdb
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia_TMoveD.AdminPanel.resources
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia_TMoveD.BusinessForm.resources
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia_TMoveD.StartForm.resources
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\bin\Debug\Troia TMoveD.exe
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\bin\Debug\Troia TMoveD.pdb
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\user\Desktop\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia_TMoveD.Properties.Resources.resources
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\bin\Debug\Troia TMoveD.exe.config
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\bin\Debug\Troia TMoveD.exe
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\bin\Debug\Troia TMoveD.pdb
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia_TMoveD.AdminPanel.resources
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia_TMoveD.BusinessForm.resources
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia_TMoveD.StartForm.resources
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia_TMoveD.Properties.Resources.resources
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.csproj.GenerateResource.Cache
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.exe
+E:\Son Gün\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.pdb
+F:\04 - Yazılım\Proje Tamamı\1 Github\Troia TMoveD 4\Troia TMoveD\bin\Debug\Troia TMoveD.exe.config
+F:\04 - Yazılım\Proje Tamamı\1 Github\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.exe
+F:\04 - Yazılım\Proje Tamamı\1 Github\Troia TMoveD 4\Troia TMoveD\obj\Debug\Troia TMoveD.pdb
